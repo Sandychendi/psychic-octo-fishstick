@@ -1,0 +1,559 @@
+[
+  {
+    "url": "https://accounts.google.com/signin",
+    "isPhishing": false,
+    "explanation": "Legitimate Google authentication page."
+  },
+  {
+    "url": "https://mail.google.com",
+    "isPhishing": false,
+    "explanation": "Official Gmail service."
+  },
+  {
+    "url": "https://www.google.com",
+    "isPhishing": false,
+    "explanation": "Official Google homepage."
+  },
+  {
+    "url": "https://www.youtube.com",
+    "isPhishing": false,
+    "explanation": "Official YouTube website."
+  },
+  {
+    "url": "https://github.com",
+    "isPhishing": false,
+    "explanation": "Official GitHub platform."
+  },
+  {
+    "url": "https://docs.github.com",
+    "isPhishing": false,
+    "explanation": "Official GitHub documentation."
+  },
+  {
+    "url": "https://stackoverflow.com",
+    "isPhishing": false,
+    "explanation": "Official Stack Overflow website."
+  },
+  {
+    "url": "https://openai.com",
+    "isPhishing": false,
+    "explanation": "Official OpenAI website."
+  },
+  {
+    "url": "https://chatgpt.com",
+    "isPhishing": false,
+    "explanation": "Official ChatGPT website."
+  },
+  {
+    "url": "https://www.microsoft.com",
+    "isPhishing": false,
+    "explanation": "Official Microsoft website."
+  },
+  {
+    "url": "https://login.microsoftonline.com",
+    "isPhishing": false,
+    "explanation": "Official Microsoft login service."
+  },
+  {
+    "url": "https://office.com",
+    "isPhishing": false,
+    "explanation": "Official Microsoft Office portal."
+  },
+  {
+    "url": "https://www.apple.com",
+    "isPhishing": false,
+    "explanation": "Official Apple website."
+  },
+  {
+    "url": "https://support.apple.com",
+    "isPhishing": false,
+    "explanation": "Official Apple support."
+  },
+  {
+    "url": "https://developer.apple.com",
+    "isPhishing": false,
+    "explanation": "Official Apple developer portal."
+  },
+  {
+    "url": "https://www.amazon.com",
+    "isPhishing": false,
+    "explanation": "Official Amazon website."
+  },
+  {
+    "url": "https://aws.amazon.com",
+    "isPhishing": false,
+    "explanation": "Official AWS website."
+  },
+  {
+    "url": "https://www.netflix.com",
+    "isPhishing": false,
+    "explanation": "Official Netflix website."
+  },
+  {
+    "url": "https://www.paypal.com",
+    "isPhishing": false,
+    "explanation": "Official PayPal website."
+  },
+  {
+    "url": "https://www.linkedin.com",
+    "isPhishing": false,
+    "explanation": "Official LinkedIn website."
+  },
+  {
+    "url": "https://www.facebook.com",
+    "isPhishing": false,
+    "explanation": "Official Facebook website."
+  },
+  {
+    "url": "https://www.instagram.com",
+    "isPhishing": false,
+    "explanation": "Official Instagram website."
+  },
+  {
+    "url": "https://www.whatsapp.com",
+    "isPhishing": false,
+    "explanation": "Official WhatsApp website."
+  },
+  {
+    "url": "https://x.com",
+    "isPhishing": false,
+    "explanation": "Official X platform."
+  },
+  {
+    "url": "https://www.reddit.com",
+    "isPhishing": false,
+    "explanation": "Official Reddit website."
+  },
+  {
+    "url": "https://www.wikipedia.org",
+    "isPhishing": false,
+    "explanation": "Official Wikipedia website."
+  },
+  {
+    "url": "https://www.bbc.com",
+    "isPhishing": false,
+    "explanation": "Official BBC website."
+  },
+  {
+    "url": "https://www.cnn.com",
+    "isPhishing": false,
+    "explanation": "Official CNN website."
+  },
+  {
+    "url": "https://www.nytimes.com",
+    "isPhishing": false,
+    "explanation": "Official New York Times website."
+  },
+  {
+    "url": "https://www.cloudflare.com",
+    "isPhishing": false,
+    "explanation": "Official Cloudflare website."
+  },
+  {
+    "url": "https://www.dropbox.com",
+    "isPhishing": false,
+    "explanation": "Official Dropbox website."
+  },
+  {
+    "url": "https://www.adobe.com",
+    "isPhishing": false,
+    "explanation": "Official Adobe website."
+  },
+  {
+    "url": "https://slack.com",
+    "isPhishing": false,
+    "explanation": "Official Slack website."
+  },
+  {
+    "url": "https://zoom.us",
+    "isPhishing": false,
+    "explanation": "Official Zoom website."
+  },
+  {
+    "url": "https://trello.com",
+    "isPhishing": false,
+    "explanation": "Official Trello website."
+  },
+  {
+    "url": "https://notion.so",
+    "isPhishing": false,
+    "explanation": "Official Notion website."
+  },
+  {
+    "url": "https://www.figma.com",
+    "isPhishing": false,
+    "explanation": "Official Figma website."
+  },
+  {
+    "url": "https://www.canva.com",
+    "isPhishing": false,
+    "explanation": "Official Canva website."
+  },
+  {
+    "url": "https://gitlab.com",
+    "isPhishing": false,
+    "explanation": "Official GitLab website."
+  },
+  {
+    "url": "https://bitbucket.org",
+    "isPhishing": false,
+    "explanation": "Official Bitbucket website."
+  },
+  {
+    "url": "https://www.oracle.com",
+    "isPhishing": false,
+    "explanation": "Official Oracle website."
+  },
+  {
+    "url": "https://www.ibm.com",
+    "isPhishing": false,
+    "explanation": "Official IBM website."
+  },
+  {
+    "url": "https://www.intel.com",
+    "isPhishing": false,
+    "explanation": "Official Intel website."
+  },
+  {
+    "url": "https://www.nvidia.com",
+    "isPhishing": false,
+    "explanation": "Official NVIDIA website."
+  },
+  {
+    "url": "https://store.steampowered.com",
+    "isPhishing": false,
+    "explanation": "Official Steam store."
+  },
+  {
+    "url": "https://www.epicgames.com",
+    "isPhishing": false,
+    "explanation": "Official Epic Games website."
+  },
+  {
+    "url": "https://discord.com",
+    "isPhishing": false,
+    "explanation": "Official Discord website."
+  },
+  {
+    "url": "https://www.spotify.com",
+    "isPhishing": false,
+    "explanation": "Official Spotify website."
+  },
+  {
+    "url": "https://www.tiktok.com",
+    "isPhishing": false,
+    "explanation": "Official TikTok website."
+  },
+  {
+    "url": "https://www.mozilla.org",
+    "isPhishing": false,
+    "explanation": "Official Mozilla website."
+  },
+
+  {
+    "url": "https://www.gooogle-login.com",
+    "isPhishing": true,
+    "explanation": "Typosquatting domain.",
+    "highlightedHtml": "gooogle-login.com"
+  },
+  {
+    "url": "https://accounts-google-login.com",
+    "isPhishing": true,
+    "explanation": "Hyphenated impersonation.",
+    "highlightedHtml": "accounts-google-login.com"
+  },
+  {
+    "url": "https://google.verify-login.net",
+    "isPhishing": true,
+    "explanation": "Brand name appears only as subdomain.",
+    "highlightedHtml": "google.verify-login.net"
+  },
+  {
+    "url": "https://paypal-secure-login.com",
+    "isPhishing": true,
+    "explanation": "Fake PayPal login domain.",
+    "highlightedHtml": "paypal-secure-login.com"
+  },
+  {
+    "url": "https://paypal.account-security.xyz",
+    "isPhishing": true,
+    "explanation": "Official brand used as subdomain.",
+    "highlightedHtml": "paypal.account-security.xyz"
+  },
+  {
+    "url": "https://secure-amazon-login.com",
+    "isPhishing": true,
+    "explanation": "Hyphenated fake Amazon domain.",
+    "highlightedHtml": "secure-amazon-login.com"
+  },
+  {
+    "url": "https://amazon.verify-user.net",
+    "isPhishing": true,
+    "explanation": "Brand appears only in subdomain.",
+    "highlightedHtml": "amazon.verify-user.net"
+  },
+  {
+    "url": "https://micr0soft-login.com",
+    "isPhishing": true,
+    "explanation": "Character substitution (0 for o).",
+    "highlightedHtml": "micr0soft-login.com"
+  },
+  {
+    "url": "https://microsoft-login.xyz",
+    "isPhishing": true,
+    "explanation": "Suspicious login domain.",
+    "highlightedHtml": "microsoft-login.xyz"
+  },
+  {
+    "url": "https://apple-id-secure.com",
+    "isPhishing": true,
+    "explanation": "Fake Apple ID website.",
+    "highlightedHtml": "apple-id-secure.com"
+  },
+  {
+    "url": "https://icloud.verify-login.net",
+    "isPhishing": true,
+    "explanation": "Fake iCloud verification.",
+    "highlightedHtml": "icloud.verify-login.net"
+  },
+  {
+    "url": "https://facebook-security-login.com",
+    "isPhishing": true,
+    "explanation": "Impersonates Facebook.",
+    "highlightedHtml": "facebook-security-login.com"
+  },
+  {
+    "url": "https://instagram-secure.net",
+    "isPhishing": true,
+    "explanation": "Fake Instagram security site.",
+    "highlightedHtml": "instagram-secure.net"
+  },
+  {
+    "url": "https://netflix-update-billing.com",
+    "isPhishing": true,
+    "explanation": "Billing scam domain.",
+    "highlightedHtml": "netflix-update-billing.com"
+  },
+  {
+    "url": "https://github-authentication.com",
+    "isPhishing": true,
+    "explanation": "Fake GitHub login page.",
+    "highlightedHtml": "github-authentication.com"
+  },
+  {
+    "url": "https://github.login-security.org",
+    "isPhishing": true,
+    "explanation": "Brand used in subdomain.",
+    "highlightedHtml": "github.login-security.org"
+  },
+  {
+    "url": "https://chatgpt-login.xyz",
+    "isPhishing": true,
+    "explanation": "Fake ChatGPT login.",
+    "highlightedHtml": "chatgpt-login.xyz"
+  },
+  {
+    "url": "https://openai-support-login.com",
+    "isPhishing": true,
+    "explanation": "Impersonates OpenAI.",
+    "highlightedHtml": "openai-support-login.com"
+  },
+  {
+    "url": "https://dropbox-file-share.net",
+    "isPhishing": true,
+    "explanation": "Fake file sharing portal.",
+    "highlightedHtml": "dropbox-file-share.net"
+  },
+  {
+    "url": "https://discord-giftfree.com",
+    "isPhishing": true,
+    "explanation": "Fake Discord reward page.",
+    "highlightedHtml": "discord-giftfree.com"
+  },
+  {
+    "url": "https://spotify-premiumfree.net",
+    "isPhishing": true,
+    "explanation": "Suspicious premium offer.",
+    "highlightedHtml": "spotify-premiumfree.net"
+  },
+  {
+    "url": "https://reddit-login-help.com",
+    "isPhishing": true,
+    "explanation": "Fake Reddit support.",
+    "highlightedHtml": "reddit-login-help.com"
+  },
+  {
+    "url": "https://zoom-meeting-security.com",
+    "isPhishing": true,
+    "explanation": "Impersonates Zoom.",
+    "highlightedHtml": "zoom-meeting-security.com"
+  },
+  {
+    "url": "https://slack-authenticate.net",
+    "isPhishing": true,
+    "explanation": "Fake Slack authentication.",
+    "highlightedHtml": "slack-authenticate.net"
+  },
+  {
+    "url": "https://office365-login-help.com",
+    "isPhishing": true,
+    "explanation": "Office 365 phishing domain.",
+    "highlightedHtml": "office365-login-help.com"
+  },
+  {
+    "url": "https://aws-console-login.net",
+    "isPhishing": true,
+    "explanation": "Fake AWS login.",
+    "highlightedHtml": "aws-console-login.net"
+  },
+  {
+    "url": "https://cloudflare-securitycheck.com",
+    "isPhishing": true,
+    "explanation": "Impersonates Cloudflare.",
+    "highlightedHtml": "cloudflare-securitycheck.com"
+  },
+  {
+    "url": "https://ad0be-login.com",
+    "isPhishing": true,
+    "explanation": "Character substitution.",
+    "highlightedHtml": "ad0be-login.com"
+  },
+  {
+    "url": "https://figma-login.xyz",
+    "isPhishing": true,
+    "explanation": "Fake Figma login.",
+    "highlightedHtml": "figma-login.xyz"
+  },
+  {
+    "url": "https://trello-auth.net",
+    "isPhishing": true,
+    "explanation": "Impersonates Trello.",
+    "highlightedHtml": "trello-auth.net"
+  },
+  {
+    "url": "https://notion-verify.com",
+    "isPhishing": true,
+    "explanation": "Fake Notion verification.",
+    "highlightedHtml": "notion-verify.com"
+  },
+  {
+    "url": "https://linkedin-careers-login.com",
+    "isPhishing": true,
+    "explanation": "Impersonates LinkedIn.",
+    "highlightedHtml": "linkedin-careers-login.com"
+  },
+  {
+    "url": "https://whatsapp-web-login.net",
+    "isPhishing": true,
+    "explanation": "Fake WhatsApp Web login.",
+    "highlightedHtml": "whatsapp-web-login.net"
+  },
+  {
+    "url": "https://x-login-security.com",
+    "isPhishing": true,
+    "explanation": "Impersonates X.",
+    "highlightedHtml": "x-login-security.com"
+  },
+  {
+    "url": "https://steam-community-free.com",
+    "isPhishing": true,
+    "explanation": "Fake Steam community site.",
+    "highlightedHtml": "steam-community-free.com"
+  },
+  {
+    "url": "https://epicgames-gift.net",
+    "isPhishing": true,
+    "explanation": "Fake Epic Games giveaway.",
+    "highlightedHtml": "epicgames-gift.net"
+  },
+  {
+    "url": "https://youtube-premiumfree.com",
+    "isPhishing": true,
+    "explanation": "Fake YouTube Premium offer.",
+    "highlightedHtml": "youtube-premiumfree.com"
+  },
+  {
+    "url": "https://google-drive-share.net",
+    "isPhishing": true,
+    "explanation": "Fake Google Drive sharing page.",
+    "highlightedHtml": "google-drive-share.net"
+  },
+  {
+    "url": "https://verify-google-account.net",
+    "isPhishing": true,
+    "explanation": "Fake Google verification.",
+    "highlightedHtml": "verify-google-account.net"
+  },
+  {
+    "url": "https://amazon-support-center.xyz",
+    "isPhishing": true,
+    "explanation": "Fake Amazon support.",
+    "highlightedHtml": "amazon-support-center.xyz"
+  },
+  {
+    "url": "https://paypal-confirm-now.net",
+    "isPhishing": true,
+    "explanation": "Requests account confirmation.",
+    "highlightedHtml": "paypal-confirm-now.net"
+  },
+  {
+    "url": "https://apple-security-update.net",
+    "isPhishing": true,
+    "explanation": "Fake Apple security update.",
+    "highlightedHtml": "apple-security-update.net"
+  },
+  {
+    "url": "https://microsoft-auth-update.com",
+    "isPhishing": true,
+    "explanation": "Fake Microsoft authentication.",
+    "highlightedHtml": "microsoft-auth-update.com"
+  },
+  {
+    "url": "https://netflix-payment-fix.com",
+    "isPhishing": true,
+    "explanation": "Fake payment issue page.",
+    "highlightedHtml": "netflix-payment-fix.com"
+  },
+  {
+    "url": "https://github-password-reset.net",
+    "isPhishing": true,
+    "explanation": "Fake password reset.",
+    "highlightedHtml": "github-password-reset.net"
+  },
+  {
+    "url": "https://icloud-login-help.xyz",
+    "isPhishing": true,
+    "explanation": "Fake iCloud login help.",
+    "highlightedHtml": "icloud-login-help.xyz"
+  },
+  {
+    "url": "https://bank-secure-verification.net",
+    "isPhishing": true,
+    "explanation": "Generic banking phishing domain.",
+    "highlightedHtml": "bank-secure-verification.net"
+  },
+  {
+    "url": "https://secure-payment-confirm.xyz",
+    "isPhishing": true,
+    "explanation": "Suspicious payment confirmation.",
+    "highlightedHtml": "secure-payment-confirm.xyz"
+  },
+  {
+    "url": "https://verify-account-immediately.com",
+    "isPhishing": true,
+    "explanation": "Urgency is a common phishing tactic.",
+    "highlightedHtml": "verify-account-immediately.com"
+  },
+  {
+    "url": "https://login-security-check.net",
+    "isPhishing": true,
+    "explanation": "Generic fake login portal.",
+    "highlightedHtml": "login-security-check.net"
+  },
+  {
+    "url": "https://secure-authentication-update.xyz",
+    "isPhishing": true,
+    "explanation": "Fake security update website.",
+    "highlightedHtml": "secure-authentication-update.xyz"
+  }
+]
